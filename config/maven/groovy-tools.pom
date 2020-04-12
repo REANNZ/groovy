@@ -72,7 +72,7 @@
     <repositories>
         <repository>
             <id>aQute</id>
-            <url>http://www.aQute.biz/repo</url>
+            <url>http://best-practice-software-engineering.ifs.tuwien.ac.at/repository</url>
         </repository>
     </repositories>
 </project>
